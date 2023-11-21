@@ -1,4 +1,4 @@
-# Hola soy Antu Tupac Ibali👋
+# Hola soy Antu Tupac Ibaldi👋
 ### GRADUADO DE MMO
 ### ESTUDIANTE DE ARQUITECTURA EN FADU UBA
 ### GRADUADO DE CURSOS DE COMPUTACION Y PROGRAMACION
