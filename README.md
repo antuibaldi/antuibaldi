@@ -2,7 +2,7 @@
 ### GRADUADO DE MMO,
 ### ESTUDIANTE DE ARQUITECTURA EN FADU UBA
 ### GRADUADO DE CURSOS DE COMPUTACION Y PROGRAMACION
-### amante de la planta y creativo
+### amante de las plantas y creativo
 ## Lenguajes:[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 ## Tecnologias:[![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql)](https://skillicons.dev)
 ## Framework :
