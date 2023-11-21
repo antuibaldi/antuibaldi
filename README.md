@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hola soy Antu Tupac Ibali👋
+##GRADUADO DE MMO,
+##ESTUDIANTE DE ARQUITECTURA EN FADU UBA
+##GRADUADO DE CURSOS DE COMPUTACION Y PROGRAMACION
+amante de la planta y creativo
 <!--
 **antukung/antukung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
