@@ -1,8 +1,11 @@
-### Hola soy Antu Tupac Ibali👋
-## GRADUADO DE MMO,
-## ESTUDIANTE DE ARQUITECTURA EN FADU UBA
-## GRADUADO DE CURSOS DE COMPUTACION Y PROGRAMACION
-# amante de la planta y creativo
+# Hola soy Antu Tupac Ibali👋
+### GRADUADO DE MMO,
+### ESTUDIANTE DE ARQUITECTURA EN FADU UBA
+### GRADUADO DE CURSOS DE COMPUTACION Y PROGRAMACION
+### amante de la planta y creativo
+## Lenguajes:[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+## Tecnologias:[![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql,figma&theme=light)](https://skillicons.dev)
+## Framework :
 <!--
 **antukung/antukung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
