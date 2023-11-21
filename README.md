@@ -4,8 +4,8 @@
 ### GRADUADO DE CURSOS DE COMPUTACION Y PROGRAMACION
 ### amante de las plantas y creativo
 ## Lenguajes:[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
-## Tecnologias:[![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql)](https://skillicons.dev)
-## Framework : [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,flutter&perline=3)](https://skillicons.dev)
+## Tecnologias:[![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql,autocad,photoshop)](https://skillicons.dev)
+## Framework : [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap)](https://skillicons.dev)
 <!--
 **antukung/antukung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
