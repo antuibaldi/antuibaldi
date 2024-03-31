@@ -6,9 +6,9 @@
 ## Lenguajes:[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 ## Tecnologias:[![My Skills](https://skillicons.dev/icons?i=git,nodejs,mysql,autocad,photoshop)](https://skillicons.dev)
 ## Framework : [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap)](https://skillicons.dev)
-###💬Preguntame acerca del ARTE
-###🔭Trabajo de forma independiente
-###😄Dime por mi nombre Antu
+-💬Preguntame acerca del ARTE
+-🔭Trabajo de forma independiente
+-😄Dime por mi nombre Antu
 <!--
 **antukung/antukung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
